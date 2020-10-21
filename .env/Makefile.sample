@@ -1,0 +1,11 @@
+DOMAIN=sa.1kb.pl
+
+USER=user
+GROUP=user
+PORT=1234
+
+pythonversion=3.8.2
+
+nodeversion=13.13.0
+
+include .rules.mk
